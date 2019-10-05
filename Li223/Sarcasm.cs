@@ -1,13 +1,11 @@
-static void Main(string[] args)
+static void Main(string[] _)
 {
-  var sb = new StringBuilder();
-  var text = "this does not align with our core values";
-  sb.Append(text[0]);
+  var text = "this does not align with our core values".ToArray();
   for(var i = 1; i < text.Length; i++)
   {
-    if (Char.IsLower(sb.ToString()[i - 1])) sb.Append(Char.ToUpper(text[i]));
-    else sb.Append(Char.ToLower(text[i]));
+    if (char.IsLower(text[i - 1])) text[i] = char.ToUpper(text[i]);
+    else text[i] = char.ToLower(text[i]);
   }
-  Console.WriteLine(sb.ToString());
+  Console.WriteLine(string.Join("", text));
   Console.ReadLine();
 }

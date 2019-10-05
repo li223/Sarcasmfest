@@ -3,7 +3,7 @@ The contribution should follow the casing rule and convert `This does not align 
 The program and any additional files should be put into it's own folder on this repo that is named your username. IE: `/Li223/Sarcasm.cs`
 
 Also. Try to be unqiue. I don't want 60 folders all containing the exact same program. I won't put a "1 person, 1 language" restriction on as long as each program is unique enough, IE:\
-Changing the string so it starts with an lower case letter but it's otherwise exactly the same as another = Shit
+Changing the string so it starts with an lower case letter but it's otherwise exactly the same as another = Shit\
 Using [recursion](https://github.com/li223/Sarcasmfest/blob/master/CONTRIBUTING.md#L7) instead of a loop like someone else did = Good
 
 # Casing Rules

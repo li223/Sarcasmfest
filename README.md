@@ -10,3 +10,4 @@ Commit a program that converts "This repo does not align with our core values" i
 
 # Has this repo been marked as spam yet?
 No - 4/10
+No - 5/10

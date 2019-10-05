@@ -1,5 +1,5 @@
 # Sarcasmfest Rules
-The contribution should follow the casing rule and convert `This does not align with our core values` into [Sarcasm case](htps://github.com/li223/Sarcasmfest/blob/master/CONTRIBUTING.md#casing-rules).\
+The contribution should follow the casing rule and convert `This does not align with our core values` into Sarcasm case.\
 The program and any additional files should be put into it's own folder on this repo that is named your username. IE: `/Li223/Sarcasm.cs`
 
 # Casing Rules

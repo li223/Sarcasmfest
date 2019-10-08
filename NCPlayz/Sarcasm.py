@@ -1,5 +1,5 @@
 import random
-TEXT = this does not align with our core values
+TEXT = "this does not align with our core values"
 new_text = 
 def choice(*args, **kwargs):
     return random.choice(*args, **kwargs)

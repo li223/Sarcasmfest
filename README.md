@@ -11,4 +11,4 @@ Commit a program that converts "This repo does not align with our core values" i
 # Note
 If you're one of the like 3 people that contributed before, you can contribute again. Just add `-2022` to the file name or something idk.
 
-Also forgot you can't commit to your own repos so lol that was a meme moment.
+~~Also forgot you can't commit to your own repos so lol that was a meme moment~~ nope you actually can.

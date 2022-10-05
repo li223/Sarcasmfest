@@ -6,8 +6,4 @@ Basically this repo is mocking them as some repos they've marked as spam were me
 Plox read the [Contributing](https://github.com/li223/Sarcasmfest/blob/master/CONTRIBUTING.md#casing-rules) file
 
 # What do I do
-Commit a program that converts "This repo does not align with our core values" into what I've dubbed SaRcAsM cAsE, in the most long winded horrible way you can.
-
-# Has this repo been marked as spam yet?
-No - 4/10\
-No - 5/10
+Commit a program that converts "This repo does not align with our core values" into what I've dubbed SaRcAsM cAsE, in the most efficient way you can.

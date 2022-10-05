@@ -7,3 +7,6 @@ Plox read the [Contributing](https://github.com/li223/Sarcasmfest/blob/master/CO
 
 # What do I do
 Commit a program that converts "This repo does not align with our core values" into what I've dubbed SaRcAsM cAsE, in the most efficient way you can.
+
+# Note
+If you're one of the like 3 people that contributed before, you can contribute again. Just add `-2022` to the file name or something idk.
